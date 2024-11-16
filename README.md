@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I'm J!  
 
-<!--
-**JohnS300/JohnS300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Cloud Engineer** and **API Integration Specialist** with a focus on building scalable, efficient systems. I enjoy working on projects that involve **API integrations**, serverless architectures, and backend development, with expertise in **Azure** and **AWS**.  
 
-Here are some ideas to get you started:
+💻 **Key Tools and Skills**:  
+- **Cloud Platforms**: Azure, AWS  
+- **Programming Languages**: C#, Node.js, Python  
+- **Development Tools**: Visual Studio Code, Linux/Ubuntu Terminal  
+- **Version Control**: Git, GitHub, GitLab  
+- **Testing**: xUnit, Jest  
+- **API Expertise**: RESTful services, JSON data exchange  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **What I Do**:  
+- Build and maintain **API integration applications** and cloud-based workflows.  
+- Design serverless applications with tools like **AWS SAM**.  
+- Set up CI/CD pipelines using **GitHub Actions** and other tools.  
+- Automate tasks and processes for efficient development.  
+
+📚 **What I'm Learning**:  
+- Advanced Azure Functions and Durable Functions.  
+- Backend and frontend application design for cloud architectures.  
+- Enhancing Python workflows with tools like pipx.  
+
+💡 **Interests**:  
+- Cloud architecture, automation, and secure development practices.  
+- Exploring new technologies to improve scalability and performance.  
+
+Feel free to connect and collaborate on projects involving **cloud engineering**, **API development**, or **DevOps**!  
