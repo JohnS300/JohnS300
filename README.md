@@ -4,15 +4,15 @@ I'm a **Cloud Engineer** and **API Integration Specialist** with a focus on buil
 
 💻 **Key Tools and Skills**:  
 - **Cloud Platforms**: Azure, AWS  
-- **Programming Languages**: C#, Node.js, Python  
+- **Programming Languages**: Python, Node.js, C#  
 - **Development Tools**: Visual Studio Code, Linux/Ubuntu Terminal  
 - **Version Control**: Git, GitHub, GitLab  
-- **Testing**: xUnit, Jest  
+- **Testing**: Pytest, Jest  
 - **API Expertise**: RESTful services, JSON data exchange  
 
 🔧 **What I Do**:  
 - Build and maintain **API integration applications** and cloud-based workflows.  
-- Design serverless applications with tools like **AWS SAM**.  
+- Design serverless applications with tools like **AWS SAM** and **Azure Functions**  
 - Set up CI/CD pipelines using **GitHub Actions** and other tools.  
 - Automate tasks and processes for efficient development.  
 
