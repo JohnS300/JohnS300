@@ -4,7 +4,7 @@ I'm a **Cloud Engineer** and **API Integration Specialist** with a focus on buil
 
 💻 **Key Tools and Skills**:  
 - **Cloud Platforms**: Azure, AWS  
-- **Programming Languages**: Python, Javascript, Node.js, C#  
+- **Programming Languages**: Python, Javascript, Node.js, C# , Shell
 - **Development Tools**: Visual Studio Code, Linux/Ubuntu Terminal  
 - **Version Control**: Git, GitHub, GitLab  
 - **Testing**: Pytest, Jest  
